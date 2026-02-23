@@ -33,7 +33,11 @@ const App = () => {
       name : name,
       age : age,
       course: course
+
+      
     })
+    
+    
 });
 
   }
